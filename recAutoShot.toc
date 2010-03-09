@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: recAutoShot
+## Notes: AutoShot timer.
+## Author: Recluse
+## OptionalDeps: recMedia, recLib
+## Version: $Id: recAutoShot.toc 587 2010-03-06 15:46:47Z john.d.mann@gmail.com $
+
+core.lua
